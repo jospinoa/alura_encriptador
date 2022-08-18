@@ -70,10 +70,6 @@ ul > li > a{
     width: 100%;
 }
 
-#logo{
-    /*max-width: 100%;*/
-}
-
 #contenidoPrincipal{
     display: flex;
     margin-top: 30px;
@@ -100,6 +96,7 @@ ul > li > a{
     margin-top: 10px;
     font-size: 18px;
     min-height: 120px;
+    padding: 5px;
 }
 
 #textoEncriptar{
@@ -110,7 +107,6 @@ ul > li > a{
     resize: none;
     border: none;
     color: #0097A7;
-    padding: 5px;
 }
 
 .btnPrimary{
